@@ -9,7 +9,9 @@ License URI: http://www.gnu.org/licenses/gpl.html
 Shows a tooltip when hovering an anchor. No Javascript used.
 
 == Description ==
-mfbTooltip shows a tooltip when hovering an anchor. No Javascript is used. Only CSS. mfbTooltip is based on this tutorial: http://pixelbar.be/blog/css-profi-tip-tooltip-attributen/
+mfbTooltip shows a tooltip when hovering an anchor. No Javascript is used. Only CSS.
+See example usage on http://daily.madeforbrowser.com (See main navigation)
+mfbTooltip is based on this tutorial: http://pixelbar.be/blog/css-profi-tip-tooltip-attributen/
 
 == Installation ==
 Upload zip or search in repository. Install and activate.
