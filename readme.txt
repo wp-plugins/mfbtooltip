@@ -13,6 +13,8 @@ mfbTooltip shows a tooltip when hovering an anchor. No Javascript is used. Only 
 See example usage on http://daily.madeforbrowser.com (See main navigation)
 mfbTooltip is based on this tutorial: http://pixelbar.be/blog/css-profi-tip-tooltip-attributen/
 
+Please note, that no HTML is allowed and that it's content should only be short. A couple of words. Because there is no linebreak included!
+
 == Installation ==
 Upload zip or search in repository. Install and activate.
 
